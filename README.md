@@ -20,3 +20,9 @@ Get an input number from the user and check whether it is a positive or negative
 Day 5 coding Statement:  Write a program to identify if the number is even or odd
 Description
 Get a number as input from the user and check whether the given number is odd or even
+
+Day 6 coding Statement:  Write a program to find the Quadrants in which coordinates lie
+Get the value of x and y coordinates as input from the user and check in which quadrant the point lies and print it.
+
+Day 7 coding Statement:  Write a program to find Number of days in a given month of a given year
+Get the number of month and year as input from the user and check the number of days present in that month.
