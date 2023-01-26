@@ -26,3 +26,11 @@ Get the value of x and y coordinates as input from the user and check in which q
 
 Day 7 coding Statement:  Write a program to find Number of days in a given month of a given year
 Get the number of month and year as input from the user and check the number of days present in that month.
+
+Day 8 coding Statement:  Write a program to find roots of a quadratic equation
+Description
+Get the values of a, b and c (coefficients of quadratic equation) as input from the user and calculate the roots and print as the output.
+
+Day 9 coding Statement : Write a program to find Number of digits in an integer
+Description
+Take an integer as the input from the user and then calculate the number of digits in the given input and print it as the output.
