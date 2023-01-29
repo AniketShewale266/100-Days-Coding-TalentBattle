@@ -34,3 +34,17 @@ Get the values of a, b and c (coefficients of quadratic equation) as input from 
 Day 9 coding Statement : Write a program to find Number of digits in an integer
 Description
 Take an integer as the input from the user and then calculate the number of digits in the given input and print it as the output.
+
+Day 10 coding Statement:  Write a program to find Factorial of a number
+Description
+Get a number from user for which you need to fin the factorial, then calculate the factorial and give it as the output.
+
+Day 11 coding Statement:  Write a program to find Fibonacci series up to n
+Description
+Fibonacci series is a special series where nth term is the sum of previous two terms in the series. The series starts with 0 and 1 as the first and second term of the series respectively.
+Here you need to get the value for nth term from user and then print Fibonacci series containing n terms.
+
+Day 12 coding Statement:  Write a program to find Sum of digits of a number
+Description
+Get a number from user and then find the sum of the digits in the given number.
+
