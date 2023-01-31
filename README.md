@@ -48,3 +48,10 @@ Day 12 coding Statement:  Write a program to find Sum of digits of a number
 Description
 Get a number from user and then find the sum of the digits in the given number.
 
+Day 13 coding Statement:  Write a program to find Sum of N natural numbers
+Description
+Get the input from the user for the value of n and then find the sum of first n natural numbers.
+
+Day 14 coding Statement : Write a program to reverse a given number
+Description
+Get an input from the user and the print the reverse of the given number as the output
