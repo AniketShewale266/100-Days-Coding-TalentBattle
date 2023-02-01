@@ -55,3 +55,7 @@ Get the input from the user for the value of n and then find the sum of first n 
 Day 14 coding Statement : Write a program to reverse a given number
 Description
 Get an input from the user and the print the reverse of the given number as the output
+
+Day 15 coding Statement : Write a program to identify if the number is Strong number or not
+Description
+Get a number as input from user and then check whether that number is a strong number or not. A number is said to be strong number if the sum of the factorial of each digit in the number is same as that of the number.
