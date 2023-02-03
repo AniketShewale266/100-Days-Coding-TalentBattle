@@ -59,3 +59,11 @@ Get an input from the user and the print the reverse of the given number as the 
 Day 15 coding Statement : Write a program to identify if the number is Strong number or not
 Description
 Get a number as input from user and then check whether that number is a strong number or not. A number is said to be strong number if the sum of the factorial of each digit in the number is same as that of the number.
+
+Day 16 coding Statement : Write a program to identify if the number is Perfect number or not
+Description
+Get the input from the user and check whether that number is a perfect number or not.
+
+Day 17 coding Statement : Write a program to find the Factors of a number
+Description
+Get an input from the user and find the factors of the number.
