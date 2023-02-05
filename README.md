@@ -67,3 +67,16 @@ Get the input from the user and check whether that number is a perfect number or
 Day 17 coding Statement : Write a program to find the Factors of a number
 Description
 Get an input from the user and find the factors of the number.
+
+Day 18 coding Statement : Write a program to Add two fractions
+Description
+Get the values for numerator and denominator of two fractions, then add that fractions. Consider the following format
+x3/y3 = (x1/y1) + (x2/y2)
+here x3 = (x1*y2) + (x2*y1) and y3 = (y1*y2)
+
+Day 19 coding Statement : Write a program to identify if the number is Armstrong number or not
+Description
+Get an input number from user and check whether the given number is an Armstrong number or not.
+E.g. Let the number be 1634,
+Here 1^4 + 6^4 + 3 ^4 + 4^4 = 1634
+Therefore, this is an Armstrong number
