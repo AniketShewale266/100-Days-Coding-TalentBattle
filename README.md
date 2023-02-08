@@ -80,3 +80,16 @@ Get an input number from user and check whether the given number is an Armstrong
 E.g. Let the number be 1634,
 Here 1^4 + 6^4 + 3 ^4 + 4^4 = 1634
 Therefore, this is an Armstrong number
+
+Day 20 coding Statement : Write a program to identify if the number is Prime number or not
+Description
+Get a number as input from the user and check whether that number is prime or not.
+A prime number is a number with factors as 1 and that number itself.
+
+Day 21 coding Statement : Write a program to identify if the number is Palindrome or not
+Description
+Get a number as input from the user and check whether that number is a Palindrome or not.
+
+Day 22 coding Statement : Write a program to express a number as a sum of two prime numbers
+Description
+Get a number as input from the user and express that number as sum of two prime numbers.
