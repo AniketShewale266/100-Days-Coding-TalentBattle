@@ -93,3 +93,67 @@ Get a number as input from the user and check whether that number is a Palindrom
 Day 22 coding Statement : Write a program to express a number as a sum of two prime numbers
 Description
 Get a number as input from the user and express that number as sum of two prime numbers.
+
+Day 23 coding Statement : Write a program to Replace all 0’s with 1 in a given integer
+Description
+Get a number as input from the user and find the zeros present in that number.
+Then convert the zeros into one and then print it.
+
+Day 24 coding Statement : Write a program to print Pyramid pattern using stars
+Description
+Get the number of lines as the input and print stars in that many lines or rows in a pyramid shape.
+
+Day 25 coding Statement : Write a program to find Area of a circle
+Description
+Get the value for radius from the user and calculate the area of the circle for the given radius.
+Area of circle = 3.14*radius*radius
+
+Day 26 coding Statement : Write a program to calculate Maximum number of handshakes
+Description
+Get the number of people in the room as input from the user. Then calculate the maximum number of handshakes possible among that people.
+For e.g. If there are N people in the room then the first person has to shake hand with N-1 people and second person has to shake hand with N-1-1 people i.e., N-2 handshakes are possible. Thus, it goes on.
+So total hand shakes = N-1 + N-2 + N-3 +………+1 + 0
+
+Day 27 coding Statement : Write a program to find the double of the given number without using arithmetic operator
+Description
+For the given input number calculate the double of it without using arithmetic operator.
+
+Day 28 coding Statement : Write a Program to reverse a string.
+Description
+Get an input string from user and print it in reverse order.
+
+Day 29 coding Statement : Write a Program to concatenate a string.
+Description
+Get two strings as input from the user and then concatenate it.
+
+Day 30 coding Statement : Write a Program to print Length of the string without using strlen() function
+Description
+Get a string as input from user and print the length of the string without using strlen() function.
+
+Day 31 coding Statement : Write a Program to Toggle each character in a string
+Description
+Get an input string from user and then convert the lower case of alphabets to upper case and all upper-case alphabets into lower case.
+
+Day 32 coding Statement : Write a Program to Remove vowels from a string
+Description
+Get a string as the input from the user and then remove all the vowel letters from the string and give the output.
+
+Day 33 coding Statement : Write a Program to check if String is a palindrome or not
+Description
+Get an input string from the user and then check whether it is a palindrome string or not.
+
+Day 34 coding Statement : Write a Program to Remove brackets from an algebraic expression
+Description
+Get an algebraic expression as input from the user and then remove all the brackets in that.
+Input
+7x+(2*y)
+Output
+7x+2*y
+
+Day 35 coding Statement : Write a Program to Count the sum of numbers in a string
+Description
+Get a string from the user and find the sum of numbers in the string.
+
+Day 36 coding Statement : Write a Program to Capitalize the first and last letter of each word of a string
+Description
+Get a string from the user and then change the first and last letter to uppercase.
